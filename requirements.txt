@@ -1,1 +1,7 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+requests==2.32.3
 setuptools==76.0.0
+-e git+ssh://git@github.com/kvs247/steam-web-api.git@2f29ad11f29720b9ab0000109092c007298c2397#egg=steam_web_api
+urllib3==2.3.0
